@@ -1,7 +1,7 @@
 # 🟦 POS Management System — Java + MySQL + Jasper Reports
 
-A robust and multi-purpose Point of Sale (POS) system developed in **Java (Swing)** with **MySQL** as the database and **Jasper Reports** for professional reporting.  
-This system is suitable for **pharmacies, provision shops, supermarkets**, and other retail businesses, offering real-time sales tracking, inventory management, accounting, and reporting tools — all in one platform.
+A robust and multi-purpose **Point of Sale (POS)** system developed in **Java (Swing)** using **MySQL** as the database and **Jasper Reports** for professional reporting.  
+It is suitable for **pharmacies, provision shops, supermarkets**, and other retail businesses, offering real-time sales tracking, inventory management, accounting, and reporting tools — all in one efficient platform.
 
 ---
 
@@ -9,31 +9,32 @@ This system is suitable for **pharmacies, provision shops, supermarkets**, and o
 
 - **Language:** Java (Swing)  
 - **Database:** MySQL  
-- **Reporting:** Jasper Reports  
+- **Reporting Tool:** Jasper Reports  
 - **Architecture:** MVC-based modular design  
-- **Deployment:** Desktop / LAN-based  
+- **Deployment:** Desktop / LAN-based environment  
 
 ---
 
 ## 👤 Role
 
-**Role:** Full Stack Java Developer — System architecture, database design, backend logic, UI development, and Jasper Reports integration.
+**Full Stack Java Developer** — Responsible for system architecture, database design, backend logic, UI development, and Jasper Reports integration.
 
 ---
 
 ## 🧩 Key Features
 
-- Multi-purpose POS (for pharmacy, supermarket, or general retail)  
+- Multi-purpose POS for pharmacy, supermarket, and general retail  
 - Product and inventory management  
 - Category and supplier management  
 - Sales processing with automatic receipt printing  
 - User management with role and module assignment  
-- Dashboard overview of sales, stock, and profit summary  
+- Dashboard overview (sales, stock, and profit summary)  
 - Accounting and expense tracking  
-- Profit & Loss reports, and financial summaries  
-- Jasper Reports integration for sales, invoices, and daily summaries  
+- Profit & Loss reports and financial summaries  
+- Jasper Reports integration for invoices and daily summaries  
 - Secure login and access control  
-- ...and many other smart features for efficient business operations.
+- Modular user permission system  
+- Optimized database queries for fast performance  
 
 ---
 
@@ -42,38 +43,37 @@ This system is suitable for **pharmacies, provision shops, supermarkets**, and o
 Below are sample views from the system:
 
 1️⃣ **Login Screen** – Secure access for authorized users  
-![Login](./images/login.png)  
+![Login](./images/pos-system-java/01login.png)  
 
 2️⃣ **User & Role Assignment** – Register staff and assign system modules  
-![User Registration](./images/user-registration.png)  
+![User Registration](./images/pos-system-java/02user-registration.png)  
 
 3️⃣ **Master Panel** – Central access to all modules (Sales, Products, Reports, etc.)  
-![Master Panel](./images/master-panel.png)  
+![Master Panel](./images/pos-system-java/03master-panel.png)  
 
-4️⃣ **Sales Interface** – Fast checkout and receipt printing  
-![Sales](./images/sales.png)  
+4️⃣ **Inventory Management** – Track items, categories, and suppliers  
+![Inventory](./images/pos-system-java/04inventory.png)  
 
-5️⃣ **Inventory & Product Management** – Track items, categories, and suppliers  
-![Inventory](./images/inventory.png)  
+5️⃣ **Reports & Analytics** – Profit, sales, and financial summaries  
+![Reports](./images/pos-system-java/05reports.png)  
 
-6️⃣ **Accounting & Reports** – Profit & Loss, Expense, and Daily Reports  
-![Reports](./images/reports.png)  
+6️⃣ **Store Operations** – Real-time stock and sales monitoring  
+![Store](./images/pos-system-java/06store.png)  
 
+---
 
 ## 🧠 System Overview
 
-This POS system allows small and medium businesses to manage sales, inventory, and accounting operations from one platform.  
-It includes a **modular design** where the admin can assign specific modules to each user, such as Sales, Accounting, or Reports.  
-All transactions are stored in MySQL for consistency and reliability, and **Jasper Reports** provides printable invoices, stock summaries, and profit analyses.
+This POS system enables small and medium-sized businesses to manage **sales, inventory, and accounting operations** from one platform.  
+It includes a **modular user control system** that allows administrators to assign specific access levels to staff (Sales, Accounting, Reports, etc.).  
+All transactions are stored securely in MySQL, and **Jasper Reports** generates printable invoices, stock summaries, and profit analysis reports.
 
 ---
 
 ## 🧾 Jasper Reports Integration
 
-- Sales and invoice receipts  
+- Dynamic sales and invoice receipts  
 - Daily and monthly sales summaries  
-- Inventory and supplier reports  
-- Profit and loss analysis  
-- Custom report templates for various businesses  
-
-
+- Inventory and supplier analysis  
+- Profit and loss statements  
+- Customizable report templates for different business types  
