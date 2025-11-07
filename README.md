@@ -24,7 +24,7 @@ This showcase demonstrates my hands-on experience in:
 - Includes role-based dashboards for Admin, Manager, and Cashier, etc.  
 - Fully scalable and supports real-time updates  
 
-📸 Screenshots: [See project folder](./POS-MultiBranch-GPS-Attendance)
+📸 Screenshots: [See project folder](./pos-system-node-react)
 
 ---
 
