@@ -40,25 +40,27 @@ It is suitable for **pharmacies, provision shops, supermarkets**, and other reta
 
 ## 📸 Screenshots
 
+
 Below are sample views from the system:
 
 1️⃣ **Login Screen** – Secure access for authorized users  
-![Login](./images/pos-system-java/01login.png)  
+![Login](./images/01login.png)  
 
 2️⃣ **User & Role Assignment** – Register staff and assign system modules  
-![User Registration](./images/pos-system-java/02user-registration.png)  
+![User Registration](./images/02user-registration.png)  
 
 3️⃣ **Master Panel** – Central access to all modules (Sales, Products, Reports, etc.)  
-![Master Panel](./images/pos-system-java/03master-panel.png)  
+![Master Panel](./images/03master-panel.png)  
 
 4️⃣ **Inventory Management** – Track items, categories, and suppliers  
-![Inventory](./images/pos-system-java/04inventory.png)  
+![Inventory](./images/04inventory.png)  
 
 5️⃣ **Reports & Analytics** – Profit, sales, and financial summaries  
-![Reports](./images/pos-system-java/05reports.png)  
+![Reports](./images/05reports.png)  
 
 6️⃣ **Store Operations** – Real-time stock and sales monitoring  
-![Store](./images/pos-system-java/06store.png)  
+![Store](./images/06store.png)  
+
 
 ---
 
