@@ -1,18 +1,16 @@
-# 🏗️ Developer Project Showcase — *by OWUSU CALEB TETTEH*
+Developer Project Showcase — by OWUSU CALEB TETTEH
 
-> **Note:**  
-> All projects displayed here were developed by me for various companies and organizations.  
-> Due to confidentiality agreements, **source code is not shared publicly**.  
-> However, each project includes:
-> - 📸 Screenshots showing real user interfaces and features  
-> - 🧠 Full technical stack and explanation of what I built  
-> - ⚙️ Key functionalities, architecture, and tools used  
-
+Note:
+All projects displayed here were developed entirely from scratch by me for various companies and organizations.
+All systems are fully deployed and actively used by real users.
+Due to confidentiality agreements, source code is not shared publicly.
+However, each project includes:
+📸 Screenshots showing real user interfaces and features
+🧠 Full technical stack and explanation of what I designed and implemented
+⚙️ Key functionalities, architecture, and tools used
+The projects whose screenshots are shown here are just a selection of the systems I have developed. Additional projects I built but did not provide screenshots for are listed in the “Other Projects” section at the end.
 This showcase demonstrates my hands-on experience in:
-
-**Java**, **React (Vite)**, **Node.js (Express)**, **MySQL**, **PostgreSQL**, **Django**, **Next.js**, and **Jasper Reports** for real-world enterprise systems.
-
----
+Java, React (Vite), Node.js (Express), Next.js, TypeScript, MySQL, PostgreSQL, Django, and Jasper Reports, building full enterprise systems from scratch, including frontend, backend, database, and reporting modules.
 
 ## 🧩 Featured Projects
 
@@ -82,15 +80,19 @@ Optimized database queries for fast performance
 
 
 ### ⚙️ Other Projects
-- Inventory & Stock Transfer Management  
-- Cheque & Expense Management  
-- HR Attendance Tracking with Image Capture  
-- Multi-Role Access Control Systems  
-- Custom Reporting Dashboards  
-- Payroll and Allowance Systems  
-- Verification APIs & Digital ID Management  
-- ...and many more enterprise tools developed for real organizations.  
 
+Timetable Management System — automates school scheduling and conflict resolution
+Facial Recognition Systems — implemented in both Python and Java for authentication and security
+Fingerprint Attendance System — built in Java for employee and student tracking
+Check Management System — handles cheque recording, approval, and reconciliation
+Multiple QR Code Detector Module — designed in Python for factories and industrial applications
+Comprehensive Hospital Management Systems — developed in both Java and Next.js (TypeScript), covering patient care, billing, and reporting
+Restaurant Management System — fully designed and deployed, currently in use by real users
+Banking Software Modules — designed and contributed to systems helping other developers solve real-world challenges
+Tools for Other Developers — REST APIs, reporting modules, and enterprise utilities designed for practical solutions
+
+Additional enterprise software — inventory management, HR attendance tracking, multi-role access control, payroll systems, digital ID management, and many more, all deployed and used by organizations
+I have been working in software development for 5+ years, building and deploying real-world systems across schools, hospitals, restaurants, banking, and factories, solving practical problems and mentoring other developers through the projects I design.
 ---
 
 ### 🧑‍💻 About the Developer
