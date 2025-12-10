@@ -42,10 +42,3 @@ Secure login and role-based access control
 
 
 
----
-
-### 👤 Author
-**OWUSU CALEB TETTEH**  
-Full Stack Developer — Java, React, Node.js, Django, MySQL  
-📧 Email: owuzucaleb@gmail.com  
-🌐 GitHub: [https://github.com/scritpworks](https://github.com/scritpworks)
