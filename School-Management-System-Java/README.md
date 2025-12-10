@@ -34,7 +34,7 @@ Secure login and role-based access control
 ---
 
 ## 🖼️ Screenshots
-| ![Login](images/login.jpg) | ![Master Panel](images/master panel.jpg) |
+| ![Login](images/login.jpg) | ![Master Panel](images/[master panel.jpg](https://github.com/scritpworks/showcase-projects/blob/main/School-Management-System-Java/images/account%20module.jpg)) |
 | ![Student Records](images/student records model.jpg) | ![Exams Module](images/exams module.jpg) |
 | ![Account Module](images/account module.jpg) | ![Receipt Sample](images/recipt sample.jpg) |
 | ![IDE Codebase](images/ide netbeans school ms codebase.jpg) |
