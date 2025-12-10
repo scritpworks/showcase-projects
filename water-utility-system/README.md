@@ -45,19 +45,10 @@ Full Stack Developer — Responsible for designing database models, building sec
 
 Below are selected views from the system:
 
-1️⃣ Login Page – Secure JWT authentication with HttpOnly cookies
+| ![Dashboard](images/02-dashboard-sidebar.png) | ![Customer Management](images/03-custormer.png) |
+| ![Meter Reading](images/04-meter-reading-dashboard.png) | ![Receipt](images/05-receipt-sample.png) |
+| ![Payment History](images/06-payment-history.png) |
 
-
-2️⃣ Dashboard Sidebar – Manage meters, readings, and billing
-
-
-3️⃣ Customer Management – View and manage customer profiles
-
-
-4️⃣ Meter Reading Dashboard – Record and monitor water usage
-
-
-5️⃣ Receipt Sample – Automated billing and receipt generation
 
 
 (and many more — the system includes additional dashboards and utilities not shown here.)
