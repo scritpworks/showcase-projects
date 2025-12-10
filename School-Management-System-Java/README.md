@@ -13,14 +13,23 @@ A comprehensive school management system built in **Java** with **MySQL** and **
 
 ---
 
-## ⚙️ Key Features
-- Student and teacher registration and management  
-- Attendance tracking (manual or automated)  
-- Grade and results management, report card generation  
-- Role-based dashboards for Admin, Teacher, and Student  
-- Real-time analytics for school operations  
-- Printable reports via Jasper Reports  
-- Secure login and access control  
+
+⚙️ Key Features
+
+Student and teacher registration and management
+Attendance tracking (manual or automated)
+Class promotion management
+Grade and results management (term, mock, mid-semester, terminal exams)
+Report card generation and student performance analytics
+Role-based dashboards for Admin, Teacher, and Student
+Fee collection and student billing, including arrears tracking
+SMS notifications for students and parents (attendance, exam results, fees)
+Canteen sales and expense management
+School-wide expense store and accounting reports
+HR & staff management (registration, roles, attendance, payroll integration)
+Printable reports via Jasper Reports
+Real-time analytics for school operations
+Secure login and role-based access control
 
 ---
 
