@@ -91,7 +91,6 @@ Restaurant Management System — fully designed and deployed, currently in use b
 Banking Software Modules — designed and contributed to systems helping other developers solve real-world challenges
 Tools for Other Developers — REST APIs, reporting modules, and enterprise utilities designed for practical solutions
 
-Additional enterprise software — inventory management, HR attendance tracking, multi-role access control, payroll systems, digital ID management, and many more, all deployed and used by organizations
 I have been working in software development for 5+ years, building and deploying real-world systems across schools, hospitals, restaurants, banking, and factories, solving practical problems and mentoring other developers through the projects I design.
 ---
 
