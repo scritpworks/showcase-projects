@@ -77,7 +77,7 @@ Optimized database queries for fast performance
 - Includes real-time reporting dashboards  
 - Multi-branch customer support and field data synchronization, etc.  
 
-📸 Screenshots: [See project folder](./Water-Utility-System)
+📸 Screenshots: [See project folder](./water-utility-system)
 
 
 
