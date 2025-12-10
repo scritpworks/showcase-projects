@@ -35,7 +35,8 @@ This showcase demonstrates my hands-on experience in:
 - Role-based management: Admin, Teacher, Student, and Parent, etc.  
 - Real-time updates and analytics for school operations  
 
-📸 Screenshots: [See project folder](./📸 Screenshots: [See project folder](./School%20Management%20System%20Online))
+ [See project folder](./School%20Management%20System%20Online%20%E2%80%94%20React%20%2B%20Node.js%20%2B%20MySQL)
+
 
 ---
 
@@ -48,15 +49,23 @@ This showcase demonstrates my hands-on experience in:
 -HR module for staff management and payroll automation
 -Generates printable report cards, invoices, and school reports using Jasper Report
 
-📸 Screenshots: [See project folder](./Hospital-Management-System)
+📸 Screenshots: [See project folder](./School-Management-System-Java)
 
 ---
 
-### 4. Restaurant Management System (Java / MySQL / Jasper Reports)
-- POS-style interface for orders, tables, and billing  
-- Kitchen order tracking and waiter dashboard  
-- Real-time stock updates and financial reporting  
-- Integrated reporting and sales summaries, etc.  
+### 4. POS Management System (Java / MySQL / Jasper Reports)
+Multi-purpose POS for pharmacy, supermarket, and general retail
+Product and inventory management
+Category and supplier management
+Sales processing with automatic receipt printing
+User management with role and module assignment
+Dashboard overview (sales, stock, and profit summary)
+Accounting and expense tracking
+Profit & Loss reports and financial summaries
+Jasper Reports integration for invoices and daily summaries
+Secure login and access control
+Modular user permission system
+Optimized database queries for fast performance 
 
 📸 Screenshots: [See project folder](./pos-java-mysql)
 
