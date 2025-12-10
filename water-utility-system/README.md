@@ -47,7 +47,7 @@ Below are selected views from the system:
 
 | ![Dashboard](images/02-dashboard-sidebar.png) | ![Customer Management](images/03-custormer.png) |
 | ![Meter Reading](images/04-meter-reading-dashboard.png) | ![Receipt](images/05-receipt-sample.png) |
-| ![Payment History](images/06-payment-history.png) |
+| ![Payment History](images/paymenthistory.png) |
 
 
 
