@@ -56,14 +56,13 @@ Multi-branch support and scalability for larger institutions
 
 🖼️ Screenshots
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
+| ![Login](images/login.jpg) | ![User Dashboard](images/userdashboard.jpg) |
+| ![Student Management](images/studentmanagementdashboard.jpg) | ![Student Portal Dashboard](images/studentportaldashboard.jpg) |
+| ![Student Pickup Verification](images/studentpickupverification.jpg) | ![Staff Portal Management](images/staffportalmanagement.jpg) |
+| ![Boarding Management](images/boardingmanagement.jpg) | ![Teacher Score Entry](images/teachersscoreenterypart.jpg) |
+| ![Fee Payment Dialog](images/feepaymentdialog.jpg) | ![Fees Account Overview](images/feesaccountsoverview.jpg) |
+| ![Fees Account Chart View](images/feesaccountchartview.jpg) | ![Notification Center](images/notification%20center.jpg) |
+| ![System Report Accounts](images/systemreportaccounts.jpg) | ![Codebase](images/codebase.jpg) |
+
 
 Note: Only a few representative screenshots included; system contains many more modules covering full school operations.
