@@ -67,7 +67,7 @@ Attendance is captured through **selfie + GPS location**, and employees earn **s
 
 | Stock Transfer | Check Management |
 |----------------|------------------|
-| ![Transfer](images/10-stock-transfer.png) | ![Checks](images/11-check-management.png) |
+| ![Transfer](images/10-stock-transfer.png) | ![Checks](images/11-check-management.jpg) |
 
 ---
 
