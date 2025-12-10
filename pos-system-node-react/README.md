@@ -77,14 +77,5 @@ Attendance is captured through **selfie + GPS location**, and employees earn **s
 ✅ Deployed on internal servers for multi-branch use  
 ✅ Built to support additional modules (HR, payroll, reporting)  
 
----
 
-## 👤 Author
-
-**OWUSU CALEB TETTEH**  
-Full Stack Developer — Java, React, Node.js, Django, and MySQL  
-📧 Email: owuzucaleb@gmail.com  
-🌐 Portfolio: https://github.com/scritpworks
-
----
 
