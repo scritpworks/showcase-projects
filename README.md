@@ -28,22 +28,25 @@ This showcase demonstrates my hands-on experience in:
 
 ---
 
-### 2. School Management Systems (React / Node / Java)
+### 2. School Management Systems (React / Node.js / MySQL)
 - Built in both **React + Node.js** and **Java + MySQL + Jasper Reports**  
 - Handles student registration, attendance, results, and communication  
 - Includes teacher–student chat, online status, and report card generation  
 - Role-based management: Admin, Teacher, Student, and Parent, etc.  
 - Real-time updates and analytics for school operations  
 
-📸 Screenshots: [See project folder](./School-Management-System)
+📸 Screenshots: [See project folder](./📸 Screenshots: [See project folder](./School%20Management%20System%20Online))
 
 ---
 
-### 3. Hospital Management System (Java / MySQL / Jasper Reports)
-- Complete patient, appointment, billing, and prescription management  
-- Multi-branch hospital operations with role-based access  
-- Includes doctor, nurse, admin, and pharmacy modules  
-- Generates printable invoices and medical reports using Jasper Reports, etc.  
+### 3. School Management System (Java / MySQL / Jasper Reports)
+- Complete student registration, attendance, and results management
+- school operations with role-based access
+- Includes teacher, admin, student, and parent modules
+-Exam management with mock tests, mid-term, and terminal reports
+-Comprehensive accounting: fee collection, arrears, canteen transactions, and receipt generation
+-HR module for staff management and payroll automation
+-Generates printable report cards, invoices, and school reports using Jasper Report
 
 📸 Screenshots: [See project folder](./Hospital-Management-System)
 
@@ -55,7 +58,7 @@ This showcase demonstrates my hands-on experience in:
 - Real-time stock updates and financial reporting  
 - Integrated reporting and sales summaries, etc.  
 
-📸 Screenshots: [See project folder](./Restaurant-Management-System)
+📸 Screenshots: [See project folder](./pos-java-mysql)
 
 ---
 
@@ -67,26 +70,7 @@ This showcase demonstrates my hands-on experience in:
 
 📸 Screenshots: [See project folder](./Water-Utility-System)
 
----
 
-### 6. Employee Payslip & Salary Automation System (Django / PostgreSQL)
-- Automates payslip generation and salary disbursement  
-- Connects attendance data and role-based salary configurations  
-- Performance-based bonuses and deductions  
-- Printable reports and salary summaries, etc.  
-
-📸 Screenshots: [See project folder](./Payslip-Automation-System)
-
----
-
-### 7. Student Verification & Attendance Tracking System (React / Node.js / MySQL)
-- GPS + image-based verification for student attendance  
-- Syncs with school database for real-time validation  
-- Tracks attendance, lateness, and generates reports, etc.  
-
-📸 Screenshots: [See project folder](./Student-Verification-System)
-
----
 
 ### ⚙️ Other Projects
 - Inventory & Stock Transfer Management  
