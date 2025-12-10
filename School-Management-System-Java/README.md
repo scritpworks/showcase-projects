@@ -34,9 +34,11 @@ Secure login and role-based access control
 ---
 
 ## 🖼️ Screenshots
-| ![Login](images/01-login.png) | ![Dashboard](images/02-dashboard.png) |
-| ![Student Management](images/03-student-management.png) | ![Attendance](images/04-attendance.png) |
-| ![Results & Reports](images/05-reports.png) |
+| ![Login](images/login.jpg) | ![Master Panel](images/master panel.jpg) |
+| ![Student Records](images/student records model.jpg) | ![Exams Module](images/exams module.jpg) |
+| ![Account Module](images/account module.jpg) | ![Receipt Sample](images/recipt sample.jpg) |
+| ![IDE Codebase](images/ide netbeans school ms codebase.jpg) |
+
 
 ---
 
